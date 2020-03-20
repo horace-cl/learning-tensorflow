@@ -1,2 +1,2 @@
 # learning-tensorflow
-TT for beginners
+Some easy examples using tensorflow
